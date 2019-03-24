@@ -14,6 +14,6 @@ Required:
 
 Now you're able to run the program. :ok_hand:
 
-# PS: You need to add a space between video link and pressing enter
+#### PS: You need to add a space between video link and pressing enter
 
 <img src="/img/Explanation.PNG" alt="logo"/>
